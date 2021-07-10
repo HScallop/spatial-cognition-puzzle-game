@@ -1,7 +1,7 @@
 # repo for spatial cognition games
 
 ## env setting
-* watch venv doc: https://docs.python.org/3/tutorial/venv.html
+* read venv doc: https://docs.python.org/3/tutorial/venv.html
 
 use pip to install packages on Unix or MacOS:
 ```shell
