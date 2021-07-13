@@ -193,31 +193,31 @@ plt.scatter(
 plt.scatter(
     X[y_km==5,0],X[y_km==5,1],
     s=50,c='purple',
-    marker='1',edgecolor='black',
+    marker='d',edgecolor='black',
     label='cluster 6'
 )
 plt.scatter(
     X[y_km==6,0],X[y_km==6,1],
     s=50,c='blue',
-    marker='1',edgecolor='black',
+    marker='>',edgecolor='black',
     label='cluster 7'
 )
 plt.scatter(
     X[y_km==7,0],X[y_km==7,1],
     s=50,c='pink',
-    marker='1',edgecolor='black',
+    marker='<',edgecolor='black',
     label='cluster 8'
 )
 plt.scatter(
     X[y_km==8,0],X[y_km==8,1],
     s=50,c='black',
-    marker='1',edgecolor='black',
+    marker='p',edgecolor='black',
     label='cluster 9'
 )
 plt.scatter(
     X[y_km==9,0],X[y_km==9,1],
     s=50,c='gray',
-    marker='1',edgecolor='black',
+    marker='8',edgecolor='black',
     label='cluster 10'
 )
 plt.scatter(
